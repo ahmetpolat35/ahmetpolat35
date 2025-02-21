@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Merhaba, ben Ahmet Polat 
+Yeni başlayan bir yazılım geliştiriciyim. HTML, CSS, Bootstrap, SASS/SCSS ve JavaScript biliyorum ve kendimi geliştirmeye devam ediyorum. Burada öğrendiğim projeleri paylaşarak hem pratik yapıyorum hem de gelişimimi takip ediyorum.
 
-<!--
-**ahmetpolat35/ahmetpolat35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Öğrendiklerim:
 
-Here are some ideas to get you started:
+🌐 HTML & CSS – Web arayüzleri oluşturuyorum.
+🎨 Bootstrap – Daha hızlı ve şık tasarımlar yapabiliyorum.
+🎨 SASS/SCSS – CSS'i daha modüler ve verimli kullanabiliyorum.
+⚡ JavaScript – Dinamik ve etkileşimli web siteleri geliştiriyorum.
+🔧 Git & GitHub – Projelerimi yönetmeyi öğreniyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📌 Hedeflerim:
+
+Daha fazla proje yaparak portföy oluşturmak.
+Topluma faydalı projeler geliştirerek teknolojiyle insanlara yardımcı olmak.
+💡 Amacım, öğrendiğim bilgileri sadece kendim için değil, toplum için de faydalı hale getirmek. Açık kaynak projeler ve sosyal sorumluluk projeleri üzerinde çalışmaya hevesliyim!
+
+📫 Bana ulaşın: [ahmethusrev1040@gmail.com]
